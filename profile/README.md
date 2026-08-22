@@ -1,11 +1,11 @@
-# Frost Software
+# Void Software
 
 <div align="center">
 
 ### 🦍 Gorilla Tag Modding Group
 
 > Building creative mods, mod menus, and experiences for the Gorilla Tag community.
-> Frost Software's stuff is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.
+> Void Software's stuff is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 About Us
 
-Frost Software is a passionate Gorilla Tag modding group focused on creating fun, high-quality mods and projects for the community.  
+Void Software is a passionate Gorilla Tag modding group focused on creating fun, high-quality mods and projects for the community.  
 We're currently looking for talented developers and modders to join our team and help build awesome experiences.
 
 ---
@@ -40,7 +40,7 @@ If you enjoy Gorilla Tag modding and want to work with a team, we'd love to have
 
 ---
 
-## Join Frost Software
+## Join Void Software
 
 ⭐ Contribute to projects  
 ⭐ Learn with other developers  
@@ -52,7 +52,7 @@ If you enjoy Gorilla Tag modding and want to work with a team, we'd love to have
 
 <div align="center">
 
-### ❄️ Frost Software Team
+### ❄️ Void Software Team
 
 </div>
 
